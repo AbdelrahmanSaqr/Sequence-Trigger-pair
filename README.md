@@ -11,6 +11,12 @@ This script creates a cursor to identify the relevant tables and columns, drop a
 
 The main goal of the project is to simplify database management and ensure data integrity.
 
+## Features
+- Automatic generation of sequence-trigger pairs.
+- Ensures each table has a unique primary key.
+- Simplifies database management and maintenance.
+- Enhances data integrity by managing primary key values effectively.
+  
 ## Tools and Technologies:
 - PLSQL.
 - Sequences.
